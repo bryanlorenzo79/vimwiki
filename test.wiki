@@ -1,5 +1,0 @@
-= Header =
-
-[[link1.wiki]]
-
-[[link number 2]]
