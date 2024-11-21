@@ -1,2 +1,2 @@
-:permanent:
 #Permanent Notes
+:permanent:
