@@ -1,2 +1,0 @@
-# Literature Notes
-:literature:

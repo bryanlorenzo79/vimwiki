@@ -1,9 +1,11 @@
 # Vimwiki
 
 ## [Fleeting](fleeting/fleeting.md) Notes
-## [Literature](literature/literature.md) Notes
+## [Reference](reference/reference.md) Notes
 ## [Permanent](permanent/permanent.md) Notes
 
-# [Diary](/diary/diary.md) Notes
+## [Diary](/diary/diary.md) Notes
 
-# Todo
+## [Todo](todo/todo.md) List
+
+## [Vocabulary](Vocabulary.md)
