@@ -33,5 +33,9 @@ includes() - checks if a value in an array exist. returns true or false.
 some() -  checks if "some" value in an array is true. returns boolean
 every() - checks if "every" value in an array is true. returns boolean
 
+concat() - merging arrays
+let alphanumeric = [...num1, ...num2, ...letters]; - spread operator
+
+slice() - copies an array. if no argument is specified, the method copies the whole array. the first argument indicates the start index to copy and the second argument is the ending index but not including. Which basically means that if you want to copy an index from 2 to 5, the method should look like slice(2, 6)
 
 [javascript](javascript.md)

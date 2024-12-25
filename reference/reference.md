@@ -6,7 +6,8 @@
 [2024-12-12a](2024-12-12a.md)
 [javascript](javascript.md)
 [linux](linux.md)
+[math](math)
 
 
 
-[index](../index.md)
+[Back to Index](../index.md)
