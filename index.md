@@ -1,11 +1,29 @@
-# Vimwiki
+Bryan Lorenzo's Note
 
-## [Fleeting](fleeting/fleeting.md) Notes
-## [Reference](reference/reference.md) Notes
-## [Permanent](permanent/permanent.md) Notes
+# Todo
+- [ ] refactor artsey.io
+- [ ] 
 
-## [Diary](/diary/diary.md) Notes
+# Notes
+## [Fleeting](fleeting/fleeting.md) 
+[##](##) [Reference](reference/reference.md) 
+## [Permanent](permanent/permanent.md) 
 
-## [Todo](todo/todo.md) List
+## [Diary](/diary/diary.md) 
 
 ## [Vocabulary](Vocabulary.md)
+
+
+# Shortcuts
+<leader> ww - open wiki index file
+<leader> wt - open wiki index file in a new tab
+<leader> ws - list and select available wikis
+<leader> wd - delete wiki page
+<leader> wr - rename wiki page
+
+<leader> wi - open diary index file for wiki
+<leader> w <leader> i - update current diary index
+<leader> w <leader> w - open today's diary file for wiki
+<leader> w <leader> t - open today's diary file for wiki in new tab
+<C-Up> - open previous day's diary
+<C-Down> - open next day's diary
