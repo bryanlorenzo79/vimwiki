@@ -6,7 +6,7 @@ Bryan Lorenzo's Note
 
 # Notes
 ## [Fleeting](fleeting/fleeting.md) 
-[##](##) [Reference](reference/reference.md) 
+## [Reference](reference/reference.md) 
 ## [Permanent](permanent/permanent.md) 
 
 ## [Diary](/diary/diary.md) 
