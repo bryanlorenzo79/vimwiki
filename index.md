@@ -12,6 +12,7 @@ Bryan Lorenzo's Note
 
 ## [Diary](/diary/diary.md) 
 
+## [Artsey](Artsey.md)
 
 # Shortcuts
 <leader> ww - open wiki index file
