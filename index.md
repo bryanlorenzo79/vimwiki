@@ -2,7 +2,8 @@ Bryan Lorenzo's Note
 
 # Todo
 - [ ] refactor artsey.io
-- [ ] 
+- [ ] mikrotik as main router for home
+- [ ] install openbsd on laptop as server
 
 # Notes
 ## [Fleeting](fleeting/fleeting.md) 
@@ -10,8 +11,6 @@ Bryan Lorenzo's Note
 ## [Permanent](permanent/permanent.md) 
 
 ## [Diary](/diary/diary.md) 
-
-## [Vocabulary](Vocabulary.md)
 
 
 # Shortcuts
