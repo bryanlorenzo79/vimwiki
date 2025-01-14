@@ -3,8 +3,7 @@ Bryan Lorenzo's Note
 # Todo
 - [ ] refactor artsey.io
 - [ ] downgrade mikrotik(latest version of router OS seems to slow down hap lite)
-- [ ] install openbsd on laptop as server
-- [ ] make a firebase website
+- [X] make a firebase website
 - [ ] multiplayer javascript game using firebase
 
 # Notes
@@ -16,7 +15,7 @@ Bryan Lorenzo's Note
 ## [Linux](Linux.md)
 
 # Programming
-## Javascript
+## [Javascript](Javascript.md)
 ## [C](C.md)
 ## C++
 ## [Artsey](Artsey.md)
