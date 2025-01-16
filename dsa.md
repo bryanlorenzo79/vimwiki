@@ -34,3 +34,5 @@ O(n^2) - quadratic time
 O(n!) - factorial time
 * traveling salesman problem
 
+:stacks:
+[stacks](stacks.js)

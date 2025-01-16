@@ -11,11 +11,14 @@ Bryan Lorenzo's Note
 ## [Reference](reference/reference.md) 
 ## [Permanent](permanent/permanent.md) 
 
+## [Vocabulary](Vocabulary.md)
+
 
 ## [Linux](Linux.md)
 
-# Programming
-## [Javascript](Javascript.md)
+# Study
+## [Data_Structures_and_Algorithm](dsa.md)
+## [javascript](javascript.md)
 ## [C](C.md)
 ## C++
 ## [Artsey](Artsey.md)
