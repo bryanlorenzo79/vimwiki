@@ -35,4 +35,13 @@ O(n!) - factorial time
 * traveling salesman problem
 
 :stacks:
-[stacks](stacks.js)
+- last in first out(LIFO).
+- push() to put or add a value at the end of the stack
+- pop() to remove the value at the end of the stack
+- peek() to check the value at the end of the stack
+- length() or size() to check the length or size of the stack
+
+:sets:
+- set data structure is like an array except there are no duplicate items.
+- values are not in any particular order.
+- typical use is to check for the presence of an item.
