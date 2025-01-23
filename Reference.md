@@ -6,6 +6,76 @@ source:
 tag:
 
 
+id: 2025-01-23c
+source:
+tag: #vocabulary
+>ambivalence - n. the state of having mixed feelings or contraditory ideas 
+>about something or someone.
+>
+>codger - an elderly man, especially one who is old-fashion or eccentric.
+>
+>palindrome - a word, phrase or sequence that reads the same backward as forward.
+>
+>cot - n. a camp bed, particularly a portable, collapsible one.
+>
+>schoolmarm- n. a schoolmistress(typically used with a reference to a woman
+>regarded as prim, strict, and brisk in manner).
+
+id: 2025-01-23b
+source: https://www.cyberciti.biz/faq/debian-ubuntu-linux-delete-old-kernel-images-command/
+tag: #linux, #apt, #autoremove
+>On newer system all obsolete kernels and headers should automatically be 
+>flagged as no more needed, and thus can be purged with the following single 
+>command: sudo apt --purge autoremove
+
+id: 2025-01-23a
+source: https://unix.stackexchange.com/questions/20460/how-do-i-do-a-ls-and-then-sort-the-results-by-date-created
+tag: #linux, #ls
+>to list files by creation/birth date/time, you can use:
+>ls -t --time=birth
+>add -r to reverse the order
+
+id: 2025-01-22g
+source: https://youtu.be/dUPBeEWH418?si=qMzJf4ZJAEPPjcT0
+tag: #3d_printing, #tree_generator
+
+id: 2025-01-22f
+source: https://youtu.be/0XYwtub9bJE?si=ROQMVEv-00rl1Bez
+tag: #3d_printing, #sun_tracking
+
+id: 2025-01-22e
+source: https://youtu.be/uJiauHFUbn8?si=R9rN16IcL5x-qchZ
+tag: #3d_printing, #string_pulley
+
+id: 2025-01-22d
+source: https://youtu.be/TQiLLcumqDw?si=ffpC3ruYUtu5NxJl
+source: https://youtu.be/jM5Sy5Eu9pA?si=Qi9iv9lKVh7KjVds
+tag: #3d_printing, #rolling_contact_bearing
+>- an alternative to ball bearing for robotic movement and other application.
+>- works similar to bones and tendons in a bionic level.
+
+id: 2025-01-22c
+source:
+tag: #c_programming
+>- middle level language
+>
+>1. C is not an object oriented language. (procedural)
+>2. C++ is an object oriented extension of C.
+>3. C is a difficult language for beginners.
+>
+>
+>:c_variables:
+>```
+>int x = 10; // declaration + initialization
+>float pi = 3.14; // floating point number
+>char grade = 'B'; // single character
+>char name[] = "Bryan" // array of characters;
+>
+>printf("Number %d\n", x);
+>printf("Pi is %f\n", pi);
+>printf("Your grade is %c\n", grade);
+>printf("Hello %s\n", name);
+>```
 
 id: 2025-01-22b
 source:
@@ -26,6 +96,161 @@ id: 2025-01-22a
 source:
 tag: #dyneema
 >- a strong fiber used for fishing line. does not stretch.
+
+id: 2025-01-20b
+source:
+tag: #idiom
+>"a day late and a dollar short" - someone is too late and doesn't have the
+>resource to take advantage of an opportunity.
+
+id: 2025-01-20a
+source:
+tag: #javascript
+>:modules: - an external file that contains reusable code that can be imported into other
+>javascript files. Write reusable code for man different apps. Can contain
+>variables, classes, functions ... and more. Introduced as part of 
+>ECMASCRIPT 2015 Update.
+>- before importing the external file into another javascript file, make sure
+>to add the keyword "export" to any variables, classes and functions you wish
+>to use.
+>- to import the external file make sure you add the module type when adding
+>the source in the hml file.
+>```
+><script type="module" src="/src/main.js"></script>
+>```
+>- then import the external file into another javascript file. You can now use
+>- the exported variables, classes and functions from the external file.
+>```
+>import {} from './external.js';
+>```
+>
+>:synchronous: - executes line by line consequetively in a sequencial manner. Code
+>that waits for an operation to complete.
+>
+>:asynchronous: - Allows multiple operation to be performed concurrently without
+>waiting. Doesn't block the execuation flow and allows the program to continue.
+>(I/O operations, network requests, fetching data)
+>Handled with: Callbacks, Promises, Async/Await
+>```
+>function func1(callback) {
+>  setTimeout(() => {
+>      console.log("task 1");
+>      callback();
+>  }, 3000)
+>}
+>
+>function func2() {
+>  console.log("task 2");
+>  console.log("task 3");
+>  console.log("task 4");
+>}
+>
+>func1(func2);
+>```
+>
+>:error: - an object that is created to represent problem thats occurs. Occur 
+>often with user input or establishing connection.
+>
+>:try: - encloses code that might potentially cause an error.
+>:catch: - catch and handle any thrown errors from try {}
+>:finally: - (optional) Always executes. Used mostly for clean up.
+>ie. close files, close connections, release resource
+>```
+>try {
+>  console.log(x);
+>  // network errors
+>  // promise rejection
+>  // security errors
+>}
+>catch(error) {
+>  // console.log(error);
+>  console.error(error); // recommended to use console.error
+>}
+>```
+>
+>:DOM: - document object model
+>object{} that represents the page you see in the web browser and provides you
+>with an API to interact with it. Web browser constructs the DOM when it loads
+>an HTML document, and structures all the elements in a tree-like representation.
+>Javascript can access the DOM to dynamically change the content, structure,
+>and style of the web page.
+>
+>:element_selector: - methods used to target and manipulate HTML elements.
+>They allow you to select one or multiple HTML elements from the DOM
+>1. document.getElementById() // element or null
+>2. document.getElementsByClassName() // html collection
+>3. document.getElementsByTagName() // html collection
+>4. document.querySelector() // element or null
+>5. document.querySelectorAll() // nodelist
+>
+>- html collection don't have forEach() function but you can typecast it into
+>an array.(ie. Array.from(htmlCollection).forEach(html => {do something}))
+>- nodelist are static. html collection are live.
+>- you can use forEach() on nodelist.
+>
+>:css_property:
+>- accessing css properties through the DOM has a camelCase naming conventing.
+>- in css file, the properties have a hypenated naming convention(ie. font-size).
+>
+>:dom_navigation: - the process of navigating through the structure of an HTML
+>document using javascript.
+>- .firstElementChild
+>- .lastElementChild
+>- .nextElementSibling
+>- .previousElementSibling
+>- .parentElement
+>- .children
+
+id: 2025-01-19a
+source:
+tag: #data_structure_and_algorithm
+>:big_O_notation: "How code slows as data grows." 
+>1. Describes the performance of an algorithm as the amount of data increases.
+>2. Machine independent (# of steps to completion)
+>3. Ignore smaller operations O(n + 1) -> 0(n)
+>
+>example:  O(1) - constant time
+>          O(n) - linear time
+>          O(log n)
+>          O(n^2)
+>
+>n = amount of data (it's a variable like x)
+>
+>O(1) - constant time
+>* random access of an element in an array
+>* inserting at the beginning of linkedlist
+>
+>O(log n) - logarithmic time
+>* binary search
+>
+>O(n) - linear time
+>* looping through elements in an array
+>* searching through a linkedlist
+>
+>O(n log n) - quasilinear time
+>* quicksort
+>* mergesort
+>* heapsort
+>
+>O(n^2) - quadratic time
+>* insertion sort
+>* selection sort
+>* bubblesort
+>
+>O(n!) - factorial time
+>* traveling salesman problem
+>
+>:stacks:
+>- last in first out(LIFO).
+>- push() to put or add a value at the end of the stack
+>- pop() to remove the value at the end of the stack
+>- peek() to check the value at the end of the stack
+>- length() or size() to check the length or size of the stack
+>
+>:sets:
+>- set data structure is like an array except there are no duplicate items.
+>- values are not in any particular order.
+>- typical use is to check for the presence of an item.
 
 id: 2025-01-15b
 source:
