@@ -17,3 +17,9 @@ Source: https://unix.stackexchange.com/questions/20460/how-do-i-do-a-ls-and-then
 <leader> w <leader> t - open today's diary file for wiki in new tab
 <C-Up> - open previous day's diary
 <C-Down> - open next day's diary
+
+:apt:autoremove:
+source: https://www.cyberciti.biz/faq/debian-ubuntu-linux-delete-old-kernel-images-command/
+On newer system all obsolete kernels and headers should automatically be 
+flagged as no more needed, and thus can be purged with the following single 
+command: sudo apt --purge autoremove
