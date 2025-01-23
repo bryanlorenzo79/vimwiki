@@ -6,6 +6,34 @@ source:
 tag:
 
 
+id: 2025-01-23g
+source: https://youtu.be/eiDt4O6UPRw?si=Hd2UyoIk2wGFMTro
+tag: #distrobox
+- requires "podman"
+
+id: 2025-01-23f
+source: https://youtu.be/zPbUBiAkbIA?si=PC0LkmJOfYNGmUpt
+>tag: #corridor_crew, #aliens, #vfx
+>the power lifter in the movie weighs 600 lbs so the contraption is suspended
+>with wire and there is actually a "muscle guy" behind the actor making the
+>arms and feet move.
+
+id: 2025-01-23e
+source: https://youtu.be/OYgaLsAyb7A?si=b6IxiSAPxIdk7sKo
+tag: #cooking, #spanish_sardines
+>- soak the fish in brine overnite to marinate
+>- remove all excess water and fry the fish(this will help keep the shape when
+>pressure cookedl).
+>- layer the bottom of the pressure cooker with carrots to prevent the fish
+>from sticking to the bottom. Add a substancial amount of oil and water(water
+>help prevents the oil from burning). Cook for 45 minutes.
+>- with the fire out, leave the pressure cooker covered(thus keeping the
+>pressure) for 15 more minutes.
+
+id: 2025-01-23d
+source: https://youtu.be/q-dOcaI87E0?si=UzBafeI65a8BX1-O
+tag: #vim, #grep, #from_scratch
+
 id: 2025-01-23c
 source:
 tag: #vocabulary
