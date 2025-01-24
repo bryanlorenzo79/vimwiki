@@ -6,6 +6,18 @@ source:
 tag:
 
 
+id: 2025-01-24b
+source: https://youtu.be/u044iM9xsWU?si=SusRk412vjyJ4ywO
+tag: #css, #flexbox
+>understanding flexbox
+
+id: 2025-01-24a
+source: https://youtu.be/xbdJf9MRL7A?si=SeeeVE3KbbJLlMzm
+tag: #javascript, #canvas, #click
+>- addEventListener only works with html element. if you make your game in a
+>canvas, you can only add one addEventListener to it. but you can make game
+>object "collide" with the event x and y coordinates to trigger a click.
+
 id: 2025-01-23g
 source: https://youtu.be/eiDt4O6UPRw?si=Hd2UyoIk2wGFMTro
 tag: #distrobox
