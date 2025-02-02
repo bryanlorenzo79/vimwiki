@@ -6,6 +6,88 @@ source:
 tag:
 
 
+id: 2025-02-02a
+source: Happiness Podcast Episode 520
+tag: #dr_robert_puff, #happiness
+>instead of fearing death we can dance in mortality
+
+id: 2025-02-01b
+source:
+tag: #xmodmap, #keycode, #xev, #xkbset_m
+>xev
+>xkbset m
+>xmodmap -e "keycode 133 = Pointer_Button1"
+>xmodmap -e "keycode 105 = Pointer_Button2"
+
+id: 2025-02-01a
+source: https://www.commandlinux.com/man-page/man1/xev.1.html
+tag: #xev, #input, #keyboard, #mouse
+>captures the input of the keyboard or any input device as keycode. used to
+>customize the input buttons(ie keyboard as mouse click).
+
+id: 2025-01-28b
+source: https://ollama.com/download
+tag: #ollama, #llm, #ai
+>curl -fsSL https://ollama.com/install.sh | sh
+
+id: 2025-01-28a
+source: https://www.dell.com/support/kbdoc/en-ph/000179566/how-to-disable-sleep-and-configure-lid-power-settings-for-ubuntu-or-red-hat-enterprise-linux-7
+tag: #dell, #linux, #debian, #lid
+>Configure lid power settings:
+>Open the /etc/systemd/logind.conf file for editing.
+>Find the line #HandleLidSwitch=suspend.
+>Remove the # character at the beginning of the line.
+>Change the line to either of the desired settings below:
+>HandleLidSwitch=poweroff to shutdown computer when lid is closed
+>HandleLidSwitch=hibernate to hibernate computer when lid is closed
+>HandleLidSwitch=suspend to suspend computer when lid is closed
+>HandleLidSwitch=ignore to do nothing to do nothing
+>Save the file and restart the service to apply the changes by typing # systemctl restart systemd-logind
+
+id: 2025-01-27b
+source: https://www.ionos.com/digitalguide/server/know-how/how-to-check-debian-version/#:~:text=By%20typing%20%E2%80%9Clsb_release%20%2Dd%E2%80%9D%2C%20you%20can%20get%20an,information%2C%20including%20your%20Debian%20version.
+tag: #debian, #check_version
+>$lsb_release -a
+
+id: 2025-01-27a
+source:
+tag: #dd, #linux, #image
+>dd bs=4M if=/path/to/.iso of=/dev/sdx status=progress oflag=sync
+
+id: 2025-01-25c
+source: https://youtu.be/u6ljQ_6AlB0?si=K-k-FNNFm_sQlE2K
+tag: #TCL_TAB_10_NXTPAPER_5G, #e-ink
+
+id: 2025-01-25b
+source:
+tag: #vocabulary
+>repartee - n. conversation or speech characterized by quick, witty comments or
+>replies.
+
+id: 2025-01-25a
+source: https://forum.xfce.org/viewtopic.php?id=16817
+tag: #xfce, #disable_tooltip
+For launcher icon on Desktop
+>Go to Settings > Desktop
+>Then go to Icons - Appearance
+>Look for "Show icon tooltips" and deselect (leave the checkbox empty)
+>
+>For launchers in Applications/Whisker Menu (Panel item)
+>Go to Settings > Panel
+>Then go to Items and make selection on Applications/Whisker Menu
+>Click on the gear or hamburger menu icon on the right to run the 
+>   Applications/Whisker Menu setting dialog.
+>Under Appearance, look for "Show applications descriptions in tooltip" 
+>   and deselect (leave the checkbox empty)
+>
+>For launcher icon on Panel
+>Go to Settings > Panel
+>Then go to Items and make selection on Launcher in the list
+>Click on the gear hamburger menu icon on the right to run the Launcher 
+>   setting dialog
+>Under Advanced, look for "Disable tooltips" and deselect (leave the 
+>   checkbox empty)
+
 id: 2025-01-24b
 source: https://youtu.be/u044iM9xsWU?si=SusRk412vjyJ4ywO
 tag: #css, #flexbox

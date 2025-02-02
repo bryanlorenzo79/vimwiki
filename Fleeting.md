@@ -6,6 +6,13 @@ ref. id:
 tag:
 
 
+id: 2025-01-30a
+ref. id:
+tag: #solar, #heat_energy
+>My first solar panel has the voltage of 19.85 and a closed circuit amp of 6.6.
+>If we do W = V x A, we would get 130 watts of power from the solar panel on
+>a sunny day.
+
 id: 2025-01-10b
 ref. id:
 tag: #pizza, #proofing
