@@ -1,10 +1,12 @@
 # Bryan Lorenzo's Reference Notes
 
 ## Card Format
+---
 - id:
 - source:
 - tag:
-
+- note:
+---
 
 - id: 2025-02-07a
 - source: https://zoneminder.com
