@@ -1,6 +1,7 @@
 # Bryan Lorenzo's Reference Notes
 
 ## Card Format
+
 ---
 - id:
 - source:
@@ -8,6 +9,23 @@
 - note:
 ---
 
+
+---
+- id: 2025-02-08a
+- source:
+- tag: #vocabulary, #pragmatic
+- note:
+>dealing with things sensibly and realistically in a way that is based
+>on practical rather than theoretical considerations.
+---
+
+---
+- id: 2025-02-07b
+- source: https://youtu.be/3PAbcNQpvBA?si=NNQkJnX6OBvGoIsi
+- tag: #bearing, #magnetic, #maglev_bearing
+- note:
+> less friction equals greater effeciency
+---
 - id: 2025-02-07a
 - source: https://zoneminder.com
 - source: https://wiki.zoneminder.com/Debian_12_Bookworm_with_Zoneminder_1.36.x_and_1.37.x
