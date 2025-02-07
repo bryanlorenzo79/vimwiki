@@ -6,6 +6,35 @@ source:
 tag:
 
 
+id: 2025-02-07a
+source: https://zoneminder.com
+source: https://wiki.zoneminder.com/Debian_12_Bookworm_with_Zoneminder_1.36.x_and_1.37.x
+tag: #zoneminder, #surveillance
+
+id: 2025-02-06d
+source: https://youtu.be/mCshn2Rl5cs?si=tWxrB3ZkOSG3GKec
+tag: #mechanical_battery, #flywheel, #sustainable_energy
+
+id: 2025-02-06c
+source: https://youtu.be/uXKCDwPwUZg?si=JaQvwczjaenngIj9
+tag: #javascript, #portrait, #orientation
+>a way for javascript to get the client's screen orientation and set the
+>styling for a more responsive web design
+
+id: 2025-02-06b
+source: https://www.reddit.com/r/Nerf/comments/7oonkl/wire_gauge_for_2s_lipo/?rdt=52592
+tag: #awg, #wire_gauge, #2s_battery
+>typical wire gauge for 2s lipo battery is 16awg but 18awg is sufficient
+
+id: 2025-02-06a
+source: https://betafpv.com/products/lava-series-1104-brushless-motors
+tag: #awg, #wire_gauge, #1104_brushless_motor
+>for an 1104 brushless motor, a recommended wire gauge is a 28awg
+
+id: 2025-02-03a
+source: http://airfoiltools.com/airfoil/details?airfoil=e748-il
+tag: #airfoil, #sailplane
+
 id: 2025-02-02a
 source: Happiness Podcast Episode 520
 tag: #dr_robert_puff, #happiness

@@ -6,6 +6,14 @@ ref. id:
 tag:
 
 
+id: 2025-02-05a
+ref. id:
+tag: #vim, #escape
+>I was having trouble with the Ctrl-[ to escape so I used ii as a trigger to
+>initiate it. The trouble with the Ctrl-[ is that it triggers the shortcut to
+>switch to a different window. I just realize that I could've have just remap
+>the tmux window switch so now I'm back to using Ctrl-[.
+
 id: 2025-01-30a
 ref. id:
 tag: #solar, #heat_energy
