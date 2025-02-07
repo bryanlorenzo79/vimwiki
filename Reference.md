@@ -1,9 +1,9 @@
 #Bryan Lorenzo's Reference Notes
 
 ##Card Format
-id:
-source:
-tag:
+-id:
+-source:
+-tag:
 
 
 id: 2025-02-07a
