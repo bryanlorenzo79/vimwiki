@@ -1,10 +1,22 @@
-#Bryan Lorenzo's Fleeting Notes
+# Bryan Lorenzo's Fleeting Notes
 
-##Card Format
-id:
-ref. id:
-tag:
+## Card Format
 
+---
+- id:
+- ref. id:
+- tag:
+- note:
+---
+
+---
+- id: 2025-02-08a
+- ref. id:
+- tag: #gamedev, #pixelart, #vanilla_javascript
+- note:
+![advance wars pixelart](https://pin.it/bBYtYLN5q)
+>initial design for a pixel art board game using vanilla javascript
+---
 
 id: 2025-02-05a
 ref. id:
