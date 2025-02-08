@@ -14,7 +14,7 @@
 - ref. id:
 - tag: #gamedev, #pixelart, #vanilla_javascript
 - note:
-![advance wars pixelart](https://pin.it/bBYtYLN5q)
+![advance wars pixelart](https://i.pinimg.com/736x/72/73/13/72731392ef7137cafb167eb3d0d7b999.jpg)
 >initial design for a pixel art board game using vanilla javascript
 ---
 
