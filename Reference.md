@@ -3,12 +3,71 @@
 ## Card Format
 
 ---
-- id:
-- source:
-- tag:
+- id: 
+- source: 
+- tag: 
 - note:
 ---
 
+---
+- id: 2025-02-11f 
+- source: https://askubuntu.com/questions/824496/how-do-i-access-tmux-session-after-i-leave-it
+- source: https://askubuntu.com/questions/868186/how-to-kill-all-tmux-sessions-or-at-least-multiple-sessions-from-the-cli
+- tag: #tmux, #sessions
+- note:
+    >tmux kill-session -t(target) -a(all)
+    >tmux list-sessions
+    >tmux attach -t n(t stands for target and n for the session number provided
+    >by the list-sessions) 
+---
+---
+- id: 2025-02-11e 
+- source: https://youtu.be/CNBxIhxHHxM?si=1sb4ibIR8fRlNhqU
+- tag: #life, #friendship, #loneliness, #vulnerability, #simon_sinek
+- note:
+    >friendship is the key
+---
+---
+- id: 2025-02-11d 
+- source: https://youtu.be/y6Oxg7aJd-o?si=exbGd6o_QL90hjP4
+- tag: #music, #super_bowl, #chris_stapleton
+- note:
+    >the best version? compared with whitney's version
+---
+---
+- id: 2025-02-11c 
+- source: 
+- tag: #vocabulary
+- note:
+    >confluence - n. an act or process of merging 
+---
+---
+- id: 2025-02-11b 
+- source: https://www.baeldung.com/linux/tmux-status-bar-customization
+- tag: #tmux, #set, #status-bg
+- note:
+    >set -g status-bg "#000000"
+---
+---
+- id: 2025-02-11a
+- source: https://github.com/bryanlorenzo79/linuxcfg
+- tag: #ssh, #configuration
+- note:
+>ssh-keygen -t rsa -b 4096 -C "bryanlorenzo79@gmail.com"
+>eval "$(ssh-agent -s)"
+>ssh-add ~/.ssh/id_rsa
+>xclip -sel clip ~/.ssh/id_rsa.pub
+>eval $(ssh-agent -s) && ssh-add
+---
+
+---
+- id: 2025-02-10a
+- source: https://youtu.be/ke5KpqcoiIU?si=LL6SUNkfU2np70Y1
+- tag: #godot, #3d, #tutorial
+- note:
+>selecting a node and pressing 'f' centers the focus on the 3d view
+>holding right click will enable explore view(similar to fps controls)
+---
 
 ---
 - id: 2025-02-08a
