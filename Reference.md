@@ -10,43 +10,82 @@
 ---
 
 ---
+- id: 2025-02-16a 
+- source: https://www.tridimake.com/2014/11/how-to-use-openscad-4-children-and.html
+- tag: #openscad
+- note:
+---
+---
+- id: 2025-02-14d 
+- source: https://youtu.be/LxyyvW_fcqw?si=fovZI0498kJSc6Kt
+- tag: #fentanyl
+- note:
+---
+---
+- id: 2025-02-14c 
+- source: https://phoenixnap.com/kb/linux-cpu-temp
+- tag: #linux, #sensors, #cputemp
+- note:
+>sudo apt install hddtemp lm-sensors. execute by typing sensors or watch 
+>sensors and get a real-time data
+---
+---
+- id: 2025-02-14b 
+- source: https://youtu.be/5eW6Eagr9XA?si=S9E7Cb2Y9rGSCPEo
+- tag: #expert
+- note:
+>repetition with feedback helps you become an expert. a master chess player
+>uses the patterns learned and memorized. after a while, it becomes second
+>nature and that's when auto drive kicks in. aka subconsious.
+---
+---
+- id: 2025-02-14a 
+- source: chinese proverb
+- tag: #chinese, #proverb
+- note:
+
+>all of life is a dream walking, all of death is a going home. a way of
+>expressing that life is fleeting and temporary, like a dream, while death
+>is a return to a peaceful, familiar place, similar to going home.
+---
+---
 - id: 2025-02-11f 
 - source: https://askubuntu.com/questions/824496/how-do-i-access-tmux-session-after-i-leave-it
 - source: https://askubuntu.com/questions/868186/how-to-kill-all-tmux-sessions-or-at-least-multiple-sessions-from-the-cli
 - tag: #tmux, #sessions
 - note:
-    >tmux kill-session -t(target) -a(all)
-    >tmux list-sessions
-    >tmux attach -t n(t stands for target and n for the session number provided
-    >by the list-sessions) 
+>tmux kill-session -t(target) -a(all)
+>tmux list-sessions
+>tmux attach -t n(t stands for target and n for the session number provided
+>by the list-sessions) 
 ---
 ---
 - id: 2025-02-11e 
 - source: https://youtu.be/CNBxIhxHHxM?si=1sb4ibIR8fRlNhqU
 - tag: #life, #friendship, #loneliness, #vulnerability, #simon_sinek
 - note:
-    >friendship is the key
+>friendship is the key
 ---
 ---
 - id: 2025-02-11d 
 - source: https://youtu.be/y6Oxg7aJd-o?si=exbGd6o_QL90hjP4
 - tag: #music, #super_bowl, #chris_stapleton
 - note:
-    >the best version? compared with whitney's version
+>the best version? compared with whitney's version
 ---
 ---
 - id: 2025-02-11c 
 - source: 
 - tag: #vocabulary
 - note:
-    >confluence - n. an act or process of merging 
+>confluence - n. an act or process of merging 
 ---
 ---
 - id: 2025-02-11b 
 - source: https://www.baeldung.com/linux/tmux-status-bar-customization
 - tag: #tmux, #set, #status-bg
 - note:
-    >set -g status-bg "#000000"
+>set -g status-bg "#000000"
 ---
 ---
 - id: 2025-02-11a
