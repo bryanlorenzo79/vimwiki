@@ -10,6 +10,36 @@
 ---
 
 ---
+- id: 2025-02-20d 
+- source: https://www.reddit.com/r/linuxquestions/comments/pcfjo6/bash_usermod_command_not_found_in_latest_debian/
+- tag: #su, #su_-
+- note:
+>usermod is almost certainly installed. But it is in /usr/sbin/ and that 
+>directory is (by default) only in root's $PATH, not in the $PATH of non-root 
+>users. And if you use su to become root, you keep your user's $PATH. If you 
+>use su - instead, you get root's $PATH''')
+---
+---
+- id: 2025-02-20c 
+- source: https://www.sleuthkit.org/sleuthkit/man/blkls.html
+- tag: #blkls, #ls
+- note:
+>list the connected device hdd in linux
+---
+---
+- id: 2025-02-20b 
+- source: youtube/ziroth/The Genius of Bionic Bladeless Propellers
+- tag: #bladeless_propellers
+- note:
+---
+---
+- id: 2025-02-20a 
+- source: https://askubuntu.com/questions/454649/how-can-i-change-the-default-editor-of-the-sudoedit-command-to-be-vim
+- tag: #sudoedit
+- note:
+>change default(nano) sudoedit editor
+---
+---
 - id: 2025-02-16a 
 - source: https://www.tridimake.com/2014/11/how-to-use-openscad-4-children-and.html
 - tag: #openscad
