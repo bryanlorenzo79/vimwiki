@@ -8,7 +8,32 @@
 - tag: 
 - note:
 ---
+---
+- id: 2025-03-05a 
+- source: https://en.wikipedia.org/wiki/Fish_locomotion
+- tag: #fish_locomotion
+- note:
+---
+---
+- id: 2025-03-02a 
+- source: https://youtu.be/wYDh5d9pfu8?si=GihsocKz9RvH8UVV
+- tag: #fish_locomotion
+- note:
+---
+---
+- id: 2025-02-20f 
+- source: vocab
+- tag: #fleeting
+- note:
+>adj. lasting for a very short time
 
+---
+- id: 2025-02-20e 
+- source: vocab 
+- tag: #pillage
+- note:
+>v. rob a (place) using violence, especially in wartime.
+---
 ---
 - id: 2025-02-20d 
 - source: https://www.reddit.com/r/linuxquestions/comments/pcfjo6/bash_usermod_command_not_found_in_latest_debian/
