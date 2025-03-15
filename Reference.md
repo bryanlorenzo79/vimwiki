@@ -9,6 +9,24 @@
 - note:
 ---
 ---
+- id: 2025-03-14a 
+- source: https://docs.docker.com/engine/install/debian/
+- tag: #docker, #installation
+- note:
+---
+---
+- id: 2025-03-09a 
+- source: https://wiki.archlinux.org/title/Xmodmap
+- tag: #xmodmap, #custom_keys
+- note:
+---
+---
+- id: 2025-03-08a 
+- source: https://youtu.be/XhsLyNPspMs?si=2pNkIaT8bMO1pFpm
+- tag: #ichthyology, #internal_anatomy
+- note:
+---
+---
 - id: 2025-03-05a 
 - source: https://en.wikipedia.org/wiki/Fish_locomotion
 - tag: #fish_locomotion
