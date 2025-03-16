@@ -9,6 +9,19 @@
 - note:
 ---
 ---
+- id: 2025-03-16b 
+- source: https://computingforgeeks.com/install-and-configure-tigervnc-vnc-server-on-debian/
+- tag: #vnc, #tigervnc, #setup
+- note:
+---
+---
+- id: 2025-03-16a 
+- source: https://youtu.be/eF45KJdZxKY?si=h2JJqZGjMPvMrmGW
+- tag: #sudo
+- note:
+>enable sudo for user
+---
+---
 - id: 2025-03-14a 
 - source: https://docs.docker.com/engine/install/debian/
 - tag: #docker, #installation
