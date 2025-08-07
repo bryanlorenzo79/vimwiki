@@ -9,6 +9,37 @@
 - note:
 ---
 ---
+- id: 2025-06-03 
+- source: 
+- tag: #vim, #vim-surround
+- note:
+    >when typing the word isn't and not have vim-surround automatically at
+    another ', just press Ctrl-V to temporarily disable vim-surround
+---
+---
+- id: 2025-05-21 
+- source: pldt
+- tag: #pldt, #fibr
+- note:
+    >https://192.168.1.1/admin.html
+- 
+---
+---
+- id: 2025-05-04a 
+- source: Three.js crash course
+- tag: three.js, 3d
+- note:
+    >pbr - physic based rendering
+---
+---
+- id: 2025-04-29a 
+- source: javascript
+- tag: #javascript, #preventDefault
+- note:
+    >preventDefault() method prevents the page from reloading when an action
+    >like submit is invoke.
+---
+---
 - id: 2025-03-16b 
 - source: https://computingforgeeks.com/install-and-configure-tigervnc-vnc-server-on-debian/
 - tag: #vnc, #tigervnc, #setup
