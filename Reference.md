@@ -9,6 +9,15 @@
 - note:
 ---
 ---
+- id: 2025-11-29 
+- source: 
+- tag: #timezone, #terminal
+- note:
+    >$timedatectl status
+    >$timedatectl list-timezones
+    >$sudo timedatectl set-timezone Asia/Manila
+---
+---
 - id: 2025-06-03 
 - source: 
 - tag: #vim, #vim-surround
