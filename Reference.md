@@ -9,6 +9,15 @@
 - note:
 ---
 ---
+---
+- id: 2025-12-1 
+- source: 
+- tag: #windows11
+- note:
+    >9NJWG-CTKQ6-JRQB6-22RTC-MKMQB
+    >Windows 11 Pro key
+---
+---
 - id: 2025-11-29 
 - source: 
 - tag: #timezone, #terminal
